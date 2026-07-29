@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=1">
-  <img alt="Deepika Dhanola — BI and Data Analyst" src="./assets/banner.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img alt="Deepika Dhanola — BI and Data Analyst" src="./banner.svg?v=1" width="100%">
 </picture>
 
 <br>
@@ -21,18 +21,18 @@ I am a **BI & Data Analyst** who builds KPI dashboards, data models and automate
 > **Turning raw data into stories that matter.**
 
 <div align="center">
-  <img src="./assets/lanyard.svg?v=1" width="390" alt="Animated Deepika Dhanola lanyard badge">
+  <img src="./lanyard.svg?v=1" width="390" alt="Animated Deepika Dhanola lanyard badge">
 </div>
 
 ## ✦ Local profile cards
 
 <div align="center">
-  <img src="./assets/stats.svg?v=1" width="49%" alt="Animated local GitHub statistics">
-  <img src="./assets/langs.svg?v=1" width="49%" alt="Animated repository language bars">
+  <img src="./stats.svg?v=1" width="49%" alt="Animated local GitHub statistics">
+  <img src="./langs.svg?v=1" width="49%" alt="Animated repository language bars">
 </div>
 
 <div align="center">
-  <img src="./assets/trophies.svg?v=1" width="100%" alt="Animated local profile trophies">
+  <img src="./trophies.svg?v=1" width="100%" alt="Animated local profile trophies">
 </div>
 
 ## ✦ Selected projects
