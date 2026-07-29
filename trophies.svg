@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="tt td">
+<title id="tt">Deepika Dhanola profile trophies</title><desc id="td">Four animated local trophy cells for repositories, contributions and certifications.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d0c26"/><stop offset="1" stop-color="#0e0713"/></linearGradient><linearGradient id="tg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4fb8"/><stop offset="1" stop-color="#7c3aed"/></linearGradient><linearGradient id="shine"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><style>text{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}.cell{fill:url(#bg)}.rank{font-size:46px;font-weight:950;fill:#fff}.metric{font-size:19px;font-weight:950;fill:#fff7ff}.label{font-size:9.5px;font-weight:800;letter-spacing:1.25px;fill:#d6bfe0}@media(prefers-color-scheme:light){.cell{fill:#fffafd}.metric{fill:#342341}.label{fill:#755f82}}</style></defs>
+
+        <g transform="translate(22 20) scale(.3)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur=".35s" begin="0.30s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="22 20;22 20" dur=".01s" begin="0s" fill="freeze"/>
+          <animateTransform attributeName="transform" additive="sum" type="scale" values=".3;1.08;1" keyTimes="0;.72;1" dur=".62s" begin="0.30s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1;.2 .8 .2 1"/>
+          <rect width="286" height="210" rx="22" class="cell" stroke="#7e3b8d" stroke-width="2"/>
+          <path d="M62 56 h-15 c-18 0-18 34 4 36 M224 56 h15 c18 0 18 34-4 36" fill="none" stroke="#f0abfc" stroke-width="5" stroke-linecap="round"/>
+          <path d="M85 46 h116 v44 c0 44-29 66-58 66S85 134 85 90Z" fill="url(#tg)" stroke="#ff9bd5" stroke-width="2"/>
+          <rect x="130" y="152" width="26" height="22" rx="4" fill="#f0abfc"/><rect x="107" y="172" width="72" height="11" rx="5.5" fill="#f0abfc"/>
+          <text x="143" y="111" text-anchor="middle" class="rank">A</text>
+          <text x="143" y="202" text-anchor="middle" class="metric">16</text>
+          <text x="143" y="214" text-anchor="middle" class="label">REPOSITORIES · BUILDER</text>
+          <rect x="-170" y="0" width="88" height="230" transform="rotate(18)" fill="url(#shine)" opacity=".8"><animate attributeName="x" from="-170" to="420" dur="3.6s" begin="1.40s" repeatCount="indefinite"/></rect>
+        </g>
+        <g transform="translate(331 20) scale(.3)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur=".35s" begin="0.48s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="331 20;331 20" dur=".01s" begin="0s" fill="freeze"/>
+          <animateTransform attributeName="transform" additive="sum" type="scale" values=".3;1.08;1" keyTimes="0;.72;1" dur=".62s" begin="0.48s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1;.2 .8 .2 1"/>
+          <rect width="286" height="210" rx="22" class="cell" stroke="#7e3b8d" stroke-width="2"/>
+          <path d="M62 56 h-15 c-18 0-18 34 4 36 M224 56 h15 c18 0 18 34-4 36" fill="none" stroke="#f0abfc" stroke-width="5" stroke-linecap="round"/>
+          <path d="M85 46 h116 v44 c0 44-29 66-58 66S85 134 85 90Z" fill="url(#tg)" stroke="#ff9bd5" stroke-width="2"/>
+          <rect x="130" y="152" width="26" height="22" rx="4" fill="#f0abfc"/><rect x="107" y="172" width="72" height="11" rx="5.5" fill="#f0abfc"/>
+          <text x="143" y="111" text-anchor="middle" class="rank">B</text>
+          <text x="143" y="202" text-anchor="middle" class="metric">17</text>
+          <text x="143" y="214" text-anchor="middle" class="label">CONTRIBUTIONS · MOMENTUM</text>
+          <rect x="-170" y="0" width="88" height="230" transform="rotate(18)" fill="url(#shine)" opacity=".8"><animate attributeName="x" from="-170" to="420" dur="3.6s" begin="1.58s" repeatCount="indefinite"/></rect>
+        </g>
+        <g transform="translate(640 20) scale(.3)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur=".35s" begin="0.66s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="640 20;640 20" dur=".01s" begin="0s" fill="freeze"/>
+          <animateTransform attributeName="transform" additive="sum" type="scale" values=".3;1.08;1" keyTimes="0;.72;1" dur=".62s" begin="0.66s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1;.2 .8 .2 1"/>
+          <rect width="286" height="210" rx="22" class="cell" stroke="#7e3b8d" stroke-width="2"/>
+          <path d="M62 56 h-15 c-18 0-18 34 4 36 M224 56 h15 c18 0 18 34-4 36" fill="none" stroke="#f0abfc" stroke-width="5" stroke-linecap="round"/>
+          <path d="M85 46 h116 v44 c0 44-29 66-58 66S85 134 85 90Z" fill="url(#tg)" stroke="#ff9bd5" stroke-width="2"/>
+          <rect x="130" y="152" width="26" height="22" rx="4" fill="#f0abfc"/><rect x="107" y="172" width="72" height="11" rx="5.5" fill="#f0abfc"/>
+          <text x="143" y="111" text-anchor="middle" class="rank">S</text>
+          <text x="143" y="202" text-anchor="middle" class="metric">PL-300</text>
+          <text x="143" y="214" text-anchor="middle" class="label">CERTIFIED · POWER BI</text>
+          <rect x="-170" y="0" width="88" height="230" transform="rotate(18)" fill="url(#shine)" opacity=".8"><animate attributeName="x" from="-170" to="420" dur="3.6s" begin="1.76s" repeatCount="indefinite"/></rect>
+        </g>
+        <g transform="translate(949 20) scale(.3)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur=".35s" begin="0.84s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="949 20;949 20" dur=".01s" begin="0s" fill="freeze"/>
+          <animateTransform attributeName="transform" additive="sum" type="scale" values=".3;1.08;1" keyTimes="0;.72;1" dur=".62s" begin="0.84s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1;.2 .8 .2 1"/>
+          <rect width="286" height="210" rx="22" class="cell" stroke="#7e3b8d" stroke-width="2"/>
+          <path d="M62 56 h-15 c-18 0-18 34 4 36 M224 56 h15 c18 0 18 34-4 36" fill="none" stroke="#f0abfc" stroke-width="5" stroke-linecap="round"/>
+          <path d="M85 46 h116 v44 c0 44-29 66-58 66S85 134 85 90Z" fill="url(#tg)" stroke="#ff9bd5" stroke-width="2"/>
+          <rect x="130" y="152" width="26" height="22" rx="4" fill="#f0abfc"/><rect x="107" y="172" width="72" height="11" rx="5.5" fill="#f0abfc"/>
+          <text x="143" y="111" text-anchor="middle" class="rank">S</text>
+          <text x="143" y="202" text-anchor="middle" class="metric">DP-900</text>
+          <text x="143" y="214" text-anchor="middle" class="label">CERTIFIED · AZURE DATA</text>
+          <rect x="-170" y="0" width="88" height="230" transform="rotate(18)" fill="url(#shine)" opacity=".8"><animate attributeName="x" from="-170" to="420" dur="3.6s" begin="1.94s" repeatCount="indefinite"/></rect>
+        </g>
+</svg>

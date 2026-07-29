@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="st sd">
+<title id="st">Deepika Dhanola local GitHub statistics card</title><desc id="sd">Animated rank ring and profile statistic rows.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#25102f"/><stop offset="1" stop-color="#100815"/></linearGradient>
+ <linearGradient id="sg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4fb8"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+ <filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>
+  text{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;fill:#fff7ff} .title{font-size:18px;font-weight:900;letter-spacing:1.2px} .sub{font-size:11px;font-weight:700;letter-spacing:1.8px;fill:#d6bfe0} .label{font-size:14px;font-weight:650;fill:#eadff0} .value{font-size:14px;font-weight:900;fill:#f0abfc} .track{fill:#5e3568;opacity:.36}
+  @media (prefers-color-scheme: light){.card{fill:#fffafd} text{fill:#342341} .sub,.label{fill:#755f82} .track{fill:#decde8;opacity:.8}}
+ </style>
+</defs>
+<rect class="card" x="3" y="3" width="714" height="294" rx="24" fill="url(#bg)" stroke="#7e3b8d" stroke-width="2"/>
+<text x="28" y="38" class="title">PROFILE SIGNAL</text><text x="28" y="58" class="sub">LOCAL · NO THIRD-PARTY STATS API</text>
+<g transform="translate(116 166)">
+ <circle r="74" fill="none" stroke="#4d2b58" stroke-width="13" opacity=".55"/>
+ <circle r="74" fill="none" stroke="url(#sg)" stroke-width="13" stroke-linecap="round" stroke-dasharray="0 465" transform="rotate(-90)">
+  <animate attributeName="stroke-dasharray" from="0 465" to="372 465" dur="1.5s" begin=".25s" fill="freeze"/>
+ </circle>
+ <circle r="56" fill="#ffffff" fill-opacity=".035"/>
+ <text y="2" text-anchor="middle" font-size="38" font-weight="950" fill="#ff7ac8" filter="url(#g)">A</text>
+ <text y="27" text-anchor="middle" class="sub">ANALYST</text>
+ <circle r="82" fill="none" stroke="#f0abfc" stroke-width="1.5" stroke-dasharray="3 9" opacity=".6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/></circle>
+</g>
+
+        <g opacity="0" transform="translate(-18 0)">
+          <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.55s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="-18 0;0 0" dur="0.45s" begin="0.55s" fill="freeze"/>
+          <text x="232" y="98" class="label">Public repositories</text>
+          <text x="660" y="98" text-anchor="end" class="value">16</text>
+          <rect x="232" y="110" width="428" height="7" rx="3.5" class="track"/>
+          <rect x="232" y="110" width="0" height="7" rx="3.5" fill="url(#sg)"><animate attributeName="width" from="0" to="428.0" dur="0.9s" begin="0.67s" fill="freeze"/></rect>
+        </g>
+        <g opacity="0" transform="translate(-18 0)">
+          <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.77s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="-18 0;0 0" dur="0.45s" begin="0.77s" fill="freeze"/>
+          <text x="232" y="146" class="label">Contributions · last year</text>
+          <text x="660" y="146" text-anchor="end" class="value">17</text>
+          <rect x="232" y="158" width="428" height="7" rx="3.5" class="track"/>
+          <rect x="232" y="158" width="0" height="7" rx="3.5" fill="url(#sg)"><animate attributeName="width" from="0" to="351.0" dur="0.9s" begin="0.89s" fill="freeze"/></rect>
+        </g>
+        <g opacity="0" transform="translate(-18 0)">
+          <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.99s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="-18 0;0 0" dur="0.45s" begin="0.99s" fill="freeze"/>
+          <text x="232" y="194" class="label">Repositories starred</text>
+          <text x="660" y="194" text-anchor="end" class="value">1</text>
+          <rect x="232" y="206" width="428" height="7" rx="3.5" class="track"/>
+          <rect x="232" y="206" width="0" height="7" rx="3.5" fill="url(#sg)"><animate attributeName="width" from="0" to="154.1" dur="0.9s" begin="1.11s" fill="freeze"/></rect>
+        </g>
+        <g opacity="0" transform="translate(-18 0)">
+          <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="1.21s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="-18 0;0 0" dur="0.45s" begin="1.21s" fill="freeze"/>
+          <text x="232" y="242" class="label">Portfolio focus</text>
+          <text x="660" y="242" text-anchor="end" class="value">BI / DATA</text>
+          <rect x="232" y="254" width="428" height="7" rx="3.5" class="track"/>
+          <rect x="232" y="254" width="0" height="7" rx="3.5" fill="url(#sg)"><animate attributeName="width" from="0" to="389.5" dur="0.9s" begin="1.33s" fill="freeze"/></rect>
+        </g>
+</svg>
