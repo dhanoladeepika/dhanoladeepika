@@ -46,9 +46,7 @@ I am a **BI & Data Analyst** who builds KPI dashboards, data models and automate
 
 ## ✦ Contribution activity
 
-<div align="center">
-  <img src="./assets/activity-graph.svg?v=1" width="100%" alt="Local contribution activity graph">
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanoladeepika/dhanoladeepika/output/github-contribution-grid-snake-dark.svg?v=1">
